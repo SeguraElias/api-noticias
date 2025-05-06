@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marlo\\source\\repos\\api-noticias\\api-noticias\\wwwroot\\uploads\\images\\963116ea-1b00-45d7-ac68-2a5c91970f89.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\963116ea-1b00-45d7-ac68-2a5c91970f89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\marlo\\source\\repos\\api-noticias\\api-noticias\\wwwroot\\uploads\\images\\c66fdaea-4673-492c-b129-009bfb95c476.png",
+      "PackagePath": "staticwebassets\\uploads\\images\\c66fdaea-4673-492c-b129-009bfb95c476.png"
+    },
+    {
+      "Id": "C:\\Users\\marlo\\source\\repos\\api-noticias\\api-noticias\\wwwroot\\uploads\\images\\ee5e116a-c18b-4046-827d-26985984a21d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images\\ee5e116a-c18b-4046-827d-26985984a21d.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.api-noticias.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.api-noticias.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.api-noticias.props",
+      "PackagePath": "build\\api-noticias.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.api-noticias.props",
+      "PackagePath": "buildMultiTargeting\\api-noticias.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.api-noticias.props",
+      "PackagePath": "buildTransitive\\api-noticias.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
